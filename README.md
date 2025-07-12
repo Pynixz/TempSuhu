@@ -13,7 +13,6 @@ Proyek ini adalah simulasi sistem monitoring suhu dan kelembaban berbasis IoT me
 - OLED Display (opsional, untuk tampilan langsung)
 - Platform IoT: [ThingSpeak](https://thingspeak.com)
 - Simulasi: [Wokwi IoT Simulator](https://wokwi.com)
-- Youtube : https://youtu.be/qbxj6CwLRD8?si=wBiLLCMMBKWNfLmu
 
 ## 🖼️ Dokumentasi Simulasi
 
