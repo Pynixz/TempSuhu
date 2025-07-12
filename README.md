@@ -22,12 +22,12 @@ Proyek ini adalah simulasi sistem monitoring suhu dan kelembaban berbasis IoT me
 - Komunikasi serial ke monitor menggunakan baud rate 9600
 - Kode dikembangkan menggunakan Arduino IDE (atau simulasi di Wokwi)
 
-![Simulasi awal DHT22 & ESP32]<img width="1919" height="862" alt="Screenshot 2025-07-12 193209" src="https://github.com/user-attachments/assets/b1b7e2e4-d513-4ca1-bcd6-498b1f73ff31" />
-
+## [Simulasi awal DHT22 & ESP32]
+<img width="1919" height="862" alt="Screenshot 2025-07-12 193209" src="https://github.com/user-attachments/assets/b1b7e2e4-d513-4ca1-bcd6-498b1f73ff31" />
 *Gambar 1: Pembacaan suhu dan kelembaban dari sensor*
 
-![WiFi connection dan OLED]<img width="1919" height="864" alt="Screenshot 2025-07-12 193219" src="https://github.com/user-attachments/assets/03a48cf8-9606-4f5e-8969-cf2eaaa86a8a" />
-
+##[WiFi connection dan OLED]
+<img width="1919" height="864" alt="Screenshot 2025-07-12 193219" src="https://github.com/user-attachments/assets/03a48cf8-9606-4f5e-8969-cf2eaaa86a8a" />
 *Gambar 2: ESP32 terkoneksi ke WiFi dan menampilkan data di OLED*
 
 ## 📈 Integrasi ThingSpeak
@@ -38,7 +38,8 @@ Contoh hasil grafik:
 - Temperature (Field 2)
 - Heat Index (Field 3)
 
-![Grafik di ThingSpeak]<img width="1919" height="862" alt="Screenshot 2025-07-12 193244" src="https://github.com/user-attachments/assets/fde0e118-556f-47d6-ba90-8778519eeb63" />
+## [Grafik di ThingSpeak]
+<img width="1919" height="862" alt="Screenshot 2025-07-12 193244" src="https://github.com/user-attachments/assets/fde0e118-556f-47d6-ba90-8778519eeb63" />
 
 ## 🧪 Contoh Kode Arduino (cuplikan)
 ```cpp
