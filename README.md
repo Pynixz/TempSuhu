@@ -66,14 +66,12 @@ void loop() {
   Serial.println("°C");
   delay(2000);
 }
-
+```
 
 💡 Tujuan
-Mempelajari dasar komunikasi sensor dan pengolahan data suhu/kelembaban
-
-Menggunakan IoT untuk monitoring lingkungan secara daring
-
-Praktik pengiriman data ke cloud dan menampilkannya secara visual
+-  Mempelajari dasar komunikasi sensor dan pengolahan data suhu/kelembaban
+-  Menggunakan IoT untuk monitoring lingkungan secara daring
+-  Praktik pengiriman data ke cloud dan menampilkannya secara visual
 
 📝 Lisensi
 Proyek ini bersifat open-source dan dapat digunakan untuk keperluan edukasi dan pengembangan pribadi.
