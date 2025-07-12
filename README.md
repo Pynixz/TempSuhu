@@ -26,7 +26,7 @@ Proyek ini adalah simulasi sistem monitoring suhu dan kelembaban berbasis IoT me
 <img width="1919" height="862" alt="Screenshot 2025-07-12 193209" src="https://github.com/user-attachments/assets/b1b7e2e4-d513-4ca1-bcd6-498b1f73ff31" />
 *Gambar 1: Pembacaan suhu dan kelembaban dari sensor*
 
-##[WiFi connection dan OLED]
+## [WiFi connection dan OLED]
 <img width="1919" height="864" alt="Screenshot 2025-07-12 193219" src="https://github.com/user-attachments/assets/03a48cf8-9606-4f5e-8969-cf2eaaa86a8a" />
 *Gambar 2: ESP32 terkoneksi ke WiFi dan menampilkan data di OLED*
 
