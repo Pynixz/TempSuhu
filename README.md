@@ -40,6 +40,9 @@ Contoh hasil grafik:
 
 ## [Grafik di ThingSpeak]
 <img width="1919" height="862" alt="Screenshot 2025-07-12 193244" src="https://github.com/user-attachments/assets/fde0e118-556f-47d6-ba90-8778519eeb63" />
+[Thingspeak]
+<img width="1223" height="777" alt="Screenshot 2025-07-12 195914" src="https://github.com/user-attachments/assets/d32a6131-4210-48be-acf4-f0a98259107d" />
+
 
 ## 🧪 Contoh Kode Arduino (cuplikan)
 ```cpp
